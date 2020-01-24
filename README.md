@@ -13,13 +13,13 @@
 
 ## Git
 
-Git is a distributed version control system that allows developers to work together on common projects and collaborate effectively with people around the world.
+Git is a distributed version control system that allows developers to work together on common projects and collaborate effective
 
 ## Repositories
 
 A repository is a place to store content. This project is kept in a public repository at <https://github.com/denisecase/git-started-windows>.
 
-Repositories may also be private - visible only to yourself or to a team.
+Repositories may also be private - visible only to y
 
 ## Cloud Storage Providers
 
